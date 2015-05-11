@@ -17,6 +17,7 @@
 //= require handlebars
 //= require ember
 //= require ember-data
+//= require bootstrap-sprockets
 //= require_self
 //= require finance_calculator
 
